@@ -1,0 +1,13 @@
+org\example\Steps\D01_RegisterSteps.class
+org\example\Steps\D06_HomeSlidersSteps.class
+org\example\PomPages\P02_LoginPage.class
+org\example\Steps\Hooks.class
+org\example\Steps\D05_HoverSteps.class
+org\example\Steps\D03_CurrenciesSteps.class
+org\example\Steps\D02_LoginSteps.class
+org\example\Steps\D04_SearchSteps.class
+org\example\PomPages\P01_RegisterPage.class
+org\example\TestRunner\TheRunner.class
+org\example\PomPages\P03_homePage.class
+org\example\Steps\D08_WishlistSteps.class
+org\example\Steps\D07_FollowUsSteps.class
